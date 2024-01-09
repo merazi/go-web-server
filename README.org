@@ -1,6 +1,6 @@
 * Go Web Server
 
-[[./web-gopher.webp]]
+[[./web-gopher.png]]
 
 This is just an example project from a course I'm taking
 
