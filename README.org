@@ -1,14 +1,16 @@
-#+title: Go Web Server
+* Go Web Server
+
+[[./web-gopher.webp]]
 
 This is just an example project from a course I'm taking
 
-* How to run the server
+** How to run the server
 
 - [X] Make sure go is installed
 - [X] Execute =go run main.go=
 - [X] Open a browser and go to =localhost:8080=
 
-* Tips
+** Tips
 
 - You can change the website by editing =static/index.html=
 - You can change the port by editing line =35=
